@@ -4,4 +4,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_zephyr.mk
+    $(LOCAL_DIR)/axion_zephyr.mk

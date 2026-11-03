@@ -5,9 +5,9 @@
 $(call inherit-product, device/oplus/zephyr/device.mk)
 
 # Inherit from the LineageOS configuration.
-$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+$(call inherit-product, vendor/axion/config/common_full_phone.mk)
 
-PRODUCT_NAME := lineage_zephyr
+PRODUCT_NAME := axion_zephyr
 PRODUCT_DEVICE := zephyr
 PRODUCT_MANUFACTURER := realme
 PRODUCT_BRAND := realme
